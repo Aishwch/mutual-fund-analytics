@@ -1,0 +1,25 @@
+MUTUAL FUND ANALYTICS
+DATA QUALITY SUMMARY
+
+----------------------------------------
+
+1. Total Datasets Loaded: 10
+
+2. Data Validation:
+- All datasets loaded successfully.
+- Data types verified.
+- Sample records inspected.
+
+3. AMFI Code Validation:
+- Total Fund Master Codes: 40
+- Total NAV History Codes: 40
+- All AMFI codes matched successfully.
+- No missing codes found.
+
+4. Live NAV:
+- Successfully fetched using MFAPI.
+- Saved as data/raw/live_nav.csv
+
+5. Overall Status:
+Data quality is GOOD.
+Datasets are ready for further analysis.
